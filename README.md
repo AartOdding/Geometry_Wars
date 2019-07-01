@@ -5,6 +5,6 @@ Geometry Wars is a 2D shooter game developped by Dennis Vinke and Aart Odding fo
 
 Most of the Entity Component System, and the game logic was coded by Dennis Vinke, and the rendering and audio engine was written by me. 
 
-For compilation instructions see the file compilation-info.txt.
+For compilation instructions see the file compilation-info.md.
 
 Doxygen documentation can be generated from the doxyfile in this directory.
